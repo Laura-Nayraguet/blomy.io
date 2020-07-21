@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="48px" viewBox="0 0 38 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>notation-alimentaire</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="notation-alimentaire" transform="translate(1.000000, 1.000000)" stroke="#00DB5F" stroke-width="2">
+            <path d="M1.91253263e-15,0.035 L1.91253263e-15,12.393 C-0.111582947,14.8021026 1.74447631,16.8485499 4.153,16.972 L9.353,16.972 C11.7593929,16.8459062 13.6122079,14.8000804 13.5,12.393 L13.5,0.035" id="Stroke_4"></path>
+            <line x1="6.727" y1="45.241" x2="6.727" y2="16.973" id="Stroke_6"></line>
+            <line x1="4.897" y1="13.406" x2="4.897" y2="0.035" id="Stroke_8"></line>
+            <line x1="8.929" y1="13.406" x2="8.929" y2="0.035" id="Stroke_10"></line>
+            <path d="M24.374,45.241 L24.374,1.538 C24.3754061,0.894314107 24.7841841,0.322087045 25.3926417,0.11205649 C26.0010993,-0.097974065 26.6758236,0.100244056 27.074,0.606 C33.167,8.188 34.774,18.495 35.194,23.906 C35.2650451,24.8530836 34.9377771,25.7868702 34.291042,26.4823905 C33.6443069,27.1779107 32.7367422,27.5721038 31.787,27.57 L28.401,27.57" id="Stroke_12"></path>
+        </g>
+    </g>
+</svg>

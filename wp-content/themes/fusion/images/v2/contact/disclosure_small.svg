@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>disclosure_small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.1328125,12.9140625 C2.30419922,12.9140625 2.44384766,12.8505859 2.55810547,12.7426758 L7.28710938,8.11523438 C7.42041016,7.98828125 7.49023438,7.8359375 7.49023438,7.66455078 C7.49023438,7.49316406 7.42041016,7.328125 7.29345703,7.20751953 L2.56445312,2.58642578 C2.45019531,2.47216797 2.30419922,2.40869141 2.1328125,2.40869141 C1.79638672,2.40869141 1.52978516,2.67529297 1.52978516,3.01171875 C1.52978516,3.17675781 1.59960938,3.32910156 1.70751953,3.44335938 L6.02392578,7.66455078 L1.70751953,11.8793945 C1.59960938,11.9936523 1.52978516,12.1459961 1.52978516,12.3110352 C1.52978516,12.6538086 1.79638672,12.9140625 2.1328125,12.9140625 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="disclosure_small" transform="translate(-1.000000, -2.000000)" fill-rule="nonzero">
+            <g id="symbol">
+                <use fill="#000000" xlink:href="#path-1"></use>
+                <use fill="#5E7379" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

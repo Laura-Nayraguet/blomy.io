@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.969" height="28.657" viewBox="0 0 29.969 28.657">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,0H13.839V26.373H0Z" transform="translate(0.439 0.608)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="etoile_demi" transform="translate(0.706 0.463)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M14.309.341l2.928,9.013a.494.494,0,0,0,.469.341h9.477a.494.494,0,0,1,.29.894l-7.667,5.569a.493.493,0,0,0-.179.553l2.928,9.012a.494.494,0,0,1-.76.553l-7.666-5.57a.494.494,0,0,0-.581,0l-7.667,5.57a.494.494,0,0,1-.76-.553l2.929-9.012a.5.5,0,0,0-.179-.553L.2,10.589A.494.494,0,0,1,.5,9.7H9.971a.5.5,0,0,0,.47-.341L13.37.341A.494.494,0,0,1,14.309.341Z" transform="translate(0.439 0.662)" fill="none" stroke="#fc824a" stroke-miterlimit="10" stroke-width="2.25"/>
+    <g id="Group_9" data-name="Group 9" transform="translate(0 0.053)">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Clip_4-2" data-name="Clip 4" d="M0,0H13.839V26.373H0Z" transform="translate(0.439 0.608)" fill="none"/>
+        <g id="Group_5-2" data-name="Group 5" clip-path="url(#clip-path)">
+          <path id="Fill_3" data-name="Fill 3" d="M14.309.341l2.928,9.013a.494.494,0,0,0,.469.341h9.477a.494.494,0,0,1,.29.894l-7.667,5.569a.493.493,0,0,0-.179.553l2.928,9.012a.494.494,0,0,1-.76.553l-7.666-5.57a.494.494,0,0,0-.581,0l-7.667,5.57a.494.494,0,0,1-.76-.553l2.929-9.012a.5.5,0,0,0-.179-.553L.2,10.589A.494.494,0,0,1,.5,9.7H9.971a.5.5,0,0,0,.47-.341L13.37.341a.494.494,0,0,1,.94,0" transform="translate(0.439 0.608)" fill="#fc824a"/>
+        </g>
+      </g>
+      <g id="Group_8" data-name="Group 8">
+        <path id="Clip_7-2" data-name="Clip 7" d="M0,0H13.839V26.373H0Z" transform="translate(0.439 0.608)" fill="none"/>
+        <g id="Group_8-2" data-name="Group 8" clip-path="url(#clip-path)">
+          <path id="Stroke_6" data-name="Stroke 6" d="M14.309.341l2.928,9.013a.494.494,0,0,0,.469.341h9.477a.494.494,0,0,1,.29.894l-7.667,5.569a.493.493,0,0,0-.179.553l2.928,9.012a.494.494,0,0,1-.76.553l-7.666-5.57a.494.494,0,0,0-.581,0l-7.667,5.57a.494.494,0,0,1-.76-.553l2.929-9.012a.5.5,0,0,0-.179-.553L.2,10.589A.494.494,0,0,1,.5,9.7H9.971a.5.5,0,0,0,.47-.341L13.37.341A.494.494,0,0,1,14.309.341Z" transform="translate(0.439 0.608)" fill="none" stroke="#fc824a" stroke-miterlimit="10" stroke-width="2.25"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

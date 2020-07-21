@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>additif</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.647568 0.158571429 6.190848 0.158571429 6.190848 9.69471429 0.647568 9.69471429"></polygon>
+    </defs>
+    <g id="Site-Yuka" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0-Accueil-web" transform="translate(-474.000000, -1905.000000)">
+            <g id="Produits-alimentaires" transform="translate(150.000000, 1700.000000)">
+                <g id="produit">
+                    <g id="additif" transform="translate(310.000000, 190.000000)">
+                        <g transform="translate(15.000000, 15.000000)">
+                            <polygon id="Fill-1" fill="#6C6C6C" points="0.476928 8.93857143 0.476928 15.8592857 6.499728 19.295 12.472128 15.8578571 12.472128 8.93928571 6.499728 5.50285714"></polygon>
+                            <polygon id="Stroke-2" stroke="#6C6C6C" stroke-width="0.9945" points="0.477216 8.93828571 6.499296 5.50185714 12.471696 8.939 12.471696 15.8582857 6.499296 19.2947143 0.477216 15.8582857"></polygon>
+                            <path d="M2.308176,14.4992857 L2.308176,10.2978571 L2.308176,14.4992857 Z" id="Fill-4" fill="#6C6C6C"></path>
+                            <path d="M2.308176,14.4991429 L2.308176,10.2977143" id="Stroke-5" stroke="#ECEBE5" stroke-width="0.9945"></path>
+                            <g id="Group-8" transform="translate(6.480000, 14.127143)">
+                                <path d="M3.619512,0.372 L0.018072,2.44914286" id="Fill-6" fill="#6C6C6C"></path>
+                                <path d="M3.619512,0.372 L0.018072,2.44914286" id="Stroke-7" stroke="#ECEBE5" stroke-width="0.9945"></path>
+                            </g>
+                            <g id="Group-11" transform="translate(6.480000, 7.698571)">
+                                <path d="M0.018072,0.522 L3.619512,2.59914286" id="Fill-9" fill="#6C6C6C"></path>
+                                <path d="M0.018072,0.522 L3.619512,2.59914286" id="Stroke-10" stroke="#ECEBE5" stroke-width="0.9945"></path>
+                            </g>
+                            <g id="Group-14" transform="translate(16.560000, 0.555714)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-13"></g>
+                                <polyline id="Stroke-12" stroke="#6C6C6C" stroke-width="0.9945" mask="url(#mask-2)" points="6.190848 9.69471429 0.647568 6.53185714 0.647568 0.158285714"></polyline>
+                            </g>
+                            <g id="Group-17" transform="translate(11.520000, 6.984286)">
+                                <path d="M0.475128,2.2275 L5.687208,0.1975" id="Fill-15" fill="#6C6C6C"></path>
+                                <path d="M0.475128,2.2275 L5.687208,0.1975" id="Stroke-16" stroke="#6C6C6C" stroke-width="0.9945"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

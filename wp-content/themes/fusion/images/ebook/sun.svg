@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="122px" viewBox="0 0 162 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>sun</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.6493776%" y1="170.728935%" x2="49.6493776%" y2="20.9361881%" id="linearGradient-1">
+            <stop stop-color="#EB8D30" offset="0%"></stop>
+            <stop stop-color="#F5EA3D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ebook---Product-page" transform="translate(-1096.000000, -467.000000)" fill="url(#linearGradient-1)">
+            <path d="M1177,467 C1221.73506,467 1258,503.264935 1258,548 C1258,562.665625 1254.10245,576.420928 1247.28666,588.286596 C1231.79528,582.617967 1206.31193,583.154 1177.5,583.154 C1141.65587,583.154 1109.72324,557.10467 1096.41742,556.268974 C1096.1413,553.551688 1096,550.792345 1096,548 C1096,503.264935 1132.26494,467 1177,467 Z" id="sun"></path>
+        </g>
+    </g>
+</svg>

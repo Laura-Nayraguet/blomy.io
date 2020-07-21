@@ -1,0 +1,20 @@
+<svg id="main" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="141" viewBox="0 0 137 141">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle" width="137" height="141" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle-2" data-name="Rectangle" width="137" height="141" fill="none"/>
+  <g id="main-2" data-name="main" clip-path="url(#clip-path)">
+    <g id="main-3" data-name="main" transform="translate(13 13)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M35.019,113.5,14.07,58.459A35.573,35.573,0,0,0,14,34.86C9.427,22.3,0,0,0,0" transform="translate(75.868 15.742)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M8.929.035s8.774,1.1,6.592,14.108S10.859,30.25,6.383,30.073-.2,25.757.015,15.067.927-.464,8.929.035Z" transform="translate(59.992 7.234)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M8.527.017S19.784-1.147,20.84,15.7,19.7,37.126,14.072,38.2,4.61,34.725,1.778,21.335-1.594,1.711,8.527.017Z" transform="translate(40.245 0)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M5.869,25.733c-.663-1.345-1.11-2.377-1.792-4.026C-.984,9.472-2.6,3.638,6.726.244c0,0,7.78-2.289,12.485,7.17" transform="translate(20.737 1.312)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M62.534,120.515s-17.22-55.542-20.807-59.2-16.967-5.7-23.077-8.44S1.732,45.658.417,33.372A96.346,96.346,0,0,1,1.323,9.018s2.4-9.519,12.666-9,22.053,1.5,24.323,1.125,7.97,7.017.193,12.093S23.82,22.474,15.524,21.581,8.6,20.339,8.6,20.339" transform="translate(0 26.279)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_11" data-name="Stroke 11" d="M0,10.188S8.188,6.075,10.909,0" transform="translate(12.533 47.218)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_13" data-name="Stroke 13" d="M26.484,15S15.359,1.2,0,0" transform="translate(34.626 41.99)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_15" data-name="Stroke 15" d="M5.373,20.289S2.92,15.921.625,12.1,2.473-.584,11.119.03,25.955,18.846,25.955,18.846" transform="translate(0.65 8.199)" fill="none" stroke="#ead4c1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

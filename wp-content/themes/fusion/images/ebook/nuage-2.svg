@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="381px" height="225px" viewBox="0 0 381 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>nuage-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F7FBFF" offset="0%"></stop>
+            <stop stop-color="#E9F5FE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.597582709,169.39 L3.79925926,169.795926 C6.35111111,170.056667 8.94,170.19 11.56,170.19 C12.81,170.19 14.06,170.16 15.29,170.09 C34.9,202.86 70.72,224.8 111.68,224.8 C138.41,224.8 162.96,215.45 182.24,199.84 C189.63,202.25 197.53,203.56 205.73,203.56 C228.38,203.56 248.71,193.63 262.6,177.89 C274.87,186.42 289.78,191.43 305.85,191.43 C347.74,191.43 381.69,157.47 381.69,115.58 C381.69,113.16 381.58,110.77 381.36,108.41 C377.75,69.88 345.32,39.73 305.85,39.73 C283.2,39.73 262.88,49.66 248.98,65.4 C236.81,56.94 222.06,51.95 206.14,51.87 C186.17,20.84 151.32,0.29 111.68,0.29 C85.23,0.29 60.93,9.44 41.74,24.74 C32.5,20.72 22.29,18.49 11.56,18.49 C7.83738786,18.49 4.17758279,18.7591731 0.597582709,19.2805215 L0.597582709,169.39 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ebook---Product-page" transform="translate(0.000000, -827.000000)">
+            <g id="Group-3" transform="translate(-1.000000, 827.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="nuage-1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

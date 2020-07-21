@@ -1,0 +1,104 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+/* Third party plugins support */
+.tp_recent_tweets li {
+  background: none !important;
+  padding-left: 0 !important; }
+
+.tp_recent_tweets li a {
+  color: #e84a52 !important;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  font-style: normal !important; }
+
+.teal .tp_recent_tweets li a {
+  color: #28c2ba !important; }
+
+.orange .tp_recent_tweets li a {
+  color: #e25d33 !important; }
+
+.cyan .tp_recent_tweets li a {
+  color: #02accf !important; }
+
+.tp_recent_tweets li a:hover {
+  color: #55585b !important; }
+
+.sec-nav .tp_recent_tweets li a:hover {
+  color: #e5e5e5 !important; }
+
+.tp_recent_tweets li .twitter_time {
+  padding: 15px 0 5px 45px;
+  display: inline-block;
+  background: url("../images/icons/twitter-bird-sidebar.png") no-repeat 0 14px transparent; }
+
+.sec-nav .tp_recent_tweets li .twitter_time {
+  background-image: url("../images/icons/twitter-bird.png"); }
+
+/* Brankic Photostream styling */
+.photostream ul li {
+  margin: 0 0 5px 5px !important;
+  padding: 0 0 5px 5px !important;
+  background: none !important;
+  border: none !important; }
+
+.photostream img, .photostream a {
+  width: 66px !important;
+  height: 66px !important; }
+
+.photostream img {
+  opacity: 1 !important; }
+
+.photostream a {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
+.sec-nav .photostream a {
+  border-color: #666 !important; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .tp_recent_tweets li .twitter_time {
+    background-image: url("../images/icons/twitter-bird-sidebar@2x.png");
+    background-size: 32px 24px; }
+
+  .sec-nav .tp_recent_tweets li .twitter_time {
+    background-image: url("../images/icons/twitter-bird@2x.png");
+    background-size: 32px 24px; } }
+/* ------------------- WP Instagram Widget Styling ------------ */
+.widget .instagram-pics li {
+  width: 31.3%;
+  margin-right: 2%;
+  display: inline-block;
+  padding: 0;
+  border: none; }
+
+.widget .instagram-pics img:hover {
+  background-color: #f4f4f4;
+  border: 4px solid #e84a52;
+  opacity: 0.8; }
+
+.widget .instagram-pics img {
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -ms-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* ----- Revolution Slider -------- */
+.button.transparent {
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid #ddd;
+  text-shadow: none; }
+
+.button.transparent:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  border-color: #f2f2f2 !important; }
+
+

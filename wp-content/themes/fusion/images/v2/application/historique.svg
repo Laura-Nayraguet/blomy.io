@@ -1,0 +1,10 @@
+<svg id="picto" xmlns="http://www.w3.org/2000/svg" width="100" height="76" viewBox="0 0 100 76">
+  <rect id="Rectangle" width="100" height="76" fill="none"/>
+  <g id="picto-2" data-name="picto" transform="translate(15 3)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M0,23.092A34.376,34.376,0,1,1,8.191,58.683" transform="translate(3.072 0.53)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M2.24,13.148,0,0" transform="translate(0.531 10.59)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M12.575,0,0,4.446" transform="translate(2.772 19.292)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M11.422,9.619,0,0" transform="translate(24.615 30.203)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Stroke_9" data-name="Stroke 9" d="M14.823,0,0,14.934" transform="translate(36.036 24.887)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

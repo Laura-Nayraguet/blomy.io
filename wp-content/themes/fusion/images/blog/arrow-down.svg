@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-red-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.468427,0.7298215 L13.003519,1.2649115 C13.309286,1.5706815 13.309286,2.0293315 13.003519,2.3351015 L7.537936,7.8006815 C7.232169,8.1064515 6.773519,8.1064515 6.467752,7.8006815 L1.002169,2.3351015 C0.696402,2.0293315 0.696402,1.5706815 1.002169,1.2649115 L1.537261,0.7298215 C1.843028,0.4240515 2.301678,0.4240515 2.607445,0.7298215 L5.856218,3.9785915 C6.34058265,4.63095633 6.72279132,4.95713874 7.002844,4.95713874 C7.28289668,4.95713874 7.66510535,4.63095633 8.14947,3.9785915 L11.398243,0.7298215 C11.665789,0.4240515 12.16266,0.4240515 12.468427,0.7298215 Z" id="arrow-red-down" fill="#E84A52" fill-rule="nonzero" transform="translate(7.002844, 4.265251) scale(-1, -1) rotate(180.000000) translate(-7.002844, -4.265251) "></path>
+    </g>
+</svg>
