@@ -9,7 +9,7 @@ jQuery(document).ready(function ($) {
     country: 'FR',
     currency: 'eur',
     total: {
-      label: 'Calendrier Yuka',
+      label: 'Calendrier Blomy',
       amount: 1490,
     },
     requestPayerName: true,
@@ -46,7 +46,7 @@ jQuery(document).ready(function ($) {
     formData.append('quantity', 1);
     console.log(formData.values());
 
-    fetch('/wp-content/plugins/yuka-stripe/calendar-payment.php', {
+    fetch('/wp-content/plugins/blomy-stripe/calendar-payment.php', {
       method: 'POST',
       body: formData
     })

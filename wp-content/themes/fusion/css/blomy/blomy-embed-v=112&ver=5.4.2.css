@@ -1,0 +1,16 @@
+body.blomy-embedded #header, body.blomy-embedded #header-spacer, body.blomy-embedded a#mobile-menu-toggle, body.blomy-embedded #footer {
+  display: none !important;
+}
+body.blomy-embedded #blog-menu {
+  border-top: 1px solid #E6E6E6;
+  box-shadow: none;
+}
+body.blomy-embedded #faq-banner {
+  background: #f9f9f9;
+}
+body.blomy-embedded #faq-banner .faq-form #aa-search-input {
+  border: 1px solid #d8d8d8;
+}
+body.blomy-embedded #container {
+  padding-bottom: 0;
+}
