@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="21.259" height="19.382" viewBox="0 0 21.259 19.382">
-  <path id="Fill_1" data-name="Fill 1" d="M20.809,8.7,12.374.429a1.5,1.5,0,1,0-2.1,2.141l5.813,5.7H1.5a1.5,1.5,0,0,0,0,3H16.034L10.285,16.8a1.5,1.5,0,1,0,2.078,2.163l8.435-8.11A1.5,1.5,0,0,0,20.809,8.7" fill="#00d35e"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 21.3 19.4" style="enable-background:new 0 0 21.3 19.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B2A4D4;}
+</style>
+<path id="Fill_1" class="st0" d="M20.8,8.7l-8.4-8.3c-0.6-0.6-1.5-0.6-2.1,0s-0.6,1.5,0,2.1c0,0,0,0,0.1,0.1l5.8,5.7H1.5
+	C0.7,8.3,0,8.9,0,9.8s0.7,1.5,1.5,1.5H16l-5.7,5.5c-0.6,0.6-0.6,1.5-0.1,2.1s1.5,0.6,2.1,0.1c0,0,0,0,0,0l8.4-8.1
+	C21.4,10.3,21.4,9.3,20.8,8.7C20.8,8.7,20.8,8.7,20.8,8.7"/>
 </svg>

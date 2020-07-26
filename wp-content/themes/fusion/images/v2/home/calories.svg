@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="13px" height="18px" viewBox="0 0 13 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>calories</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Site-Blomy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1.0-Accueil-web" transform="translate(-481.000000, -1966.000000)" fill="#6C6C6C">
-            <g id="Produits-alimentaires" transform="translate(150.000000, 1700.000000)">
-                <g id="produit">
-                    <g id="calories" transform="translate(310.000000, 250.000000)">
-                        <path d="M34,27.7536253 C34,25.324887 33.344967,24.1141844 32.6514461,22.831617 C32.3346618,22.2464319 32.0089957,21.6407139 31.7136757,20.8780666 C31.6700068,20.7644029 31.5612047,20.6844716 31.4353792,20.6720052 C31.3080733,20.6588056 31.1859485,20.7167374 31.1171146,20.8201348 C30.3969483,21.9164403 29.5805625,22.598423 29.129811,22.9232814 C28.1972216,19.8074272 29.5990663,16.4781784 29.6138693,16.4444459 C29.6671601,16.3183158 29.6338533,16.1753194 29.5302323,16.0843884 C29.4266113,15.9927241 29.2748804,15.9743912 29.149795,16.0359896 C25.1004327,18.0650714 21,22.7399527 21,27.7536253 C21.0007402,31.1972712 23.9161922,34 27.5007402,34 C31.0838078,34 34,31.1972712 34,27.7536253"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6C6C6C;}
+</style>
+<title>bonbon</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<g>
+		<path class="st0" d="M3,10.6c-1.3,0-2.4,1.1-2.4,2.4v7.5c0,1.3,1.1,2.4,2.4,2.4h2.8c0.5,0,1-0.2,1.4-0.5V10.6H3z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M23.3,14.1c0-0.6-0.2-1.1-0.6-1.5c0.4-0.5,0.7-1.1,0.6-1.8c-0.1-1.2-1.2-2.1-2.5-2.1H15
+			c0.3-0.9,0.8-2.5,0.8-3.8c0-2-1.7-3.8-2.8-3.8c-1,0-1.7,0.6-1.7,0.6c-0.1,0.1-0.2,0.2-0.2,0.4v3.2l-2.7,5.9l-0.1,0.1v10.1
+			c0.8,0.4,1.7,0.6,2.4,0.6h8.7c1,0,1.9-0.7,2.1-1.6c0.1-0.5,0-1-0.2-1.4c0.7-0.4,1.2-1.1,1.2-1.9c0-0.3-0.1-0.7-0.2-0.9
+			C22.9,15.7,23.3,14.9,23.3,14.1z"/>
+	</g>
+</g>
 </svg>

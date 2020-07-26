@@ -1,42 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>bonbon</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M8.9352,5.175375 L5.33745,8.773875 C4.66395,9.447375 4.66395,10.539375 5.33745,11.213625 L12.77745,18.653625 C13.45095,19.327125 14.5437,19.327125 15.2172,18.653625 L18.8157,15.055875 C19.4892,14.381625 19.4892,13.289625 18.8157,12.616125 L11.37495,5.175375 C10.7007,4.501875 9.6087,4.501875 8.9352,5.175375 Z" id="path-1"></path>
-    </defs>
-    <g id="Site-Blomy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1.0-Accueil-web" transform="translate(-475.000000, -1843.000000)">
-            <g id="Produits-alimentaires" transform="translate(150.000000, 1700.000000)">
-                <g id="produit">
-                    <g id="sucre" transform="translate(310.000000, 130.000000)">
-                        <g id="bonbon" transform="translate(15.000000, 13.000000)">
-                            <path d="M16.83945,17.441925 C16.71495,16.983675 16.9857,16.713675 17.44395,16.838175 L22.8987,18.326175 C23.35695,18.451425 23.4507,18.831675 23.11545,19.166925 L19.16745,23.113425 C18.82845,23.453175 18.45195,23.355675 18.32745,22.897425 L16.83945,17.441925 Z" id="Stroke-11" stroke="#6C6C6C" stroke-width="0.9945"></path>
-                            <path d="M16.83945,17.441925 C16.71495,16.983675 16.9857,16.713675 17.44395,16.838175 L22.8987,18.326175 C23.35695,18.451425 23.4507,18.831675 23.11545,19.166925 L19.16745,23.113425 C18.82845,23.453175 18.45195,23.355675 18.32745,22.897425 L16.83945,17.441925 Z" id="Fill-9" fill="#6C6C6C"></path>
-                            <path d="M6.37095,6.973425 C6.8292,7.098675 7.09995,6.827925 6.97545,6.369675 L5.4867,0.914175 C5.36145,0.455925 4.98195,0.362925 4.6467,0.698175 L0.69945,4.645425 C0.3597,4.984425 0.45795,5.360925 0.9162,5.486175 L6.37095,6.973425 Z" id="Stroke-7" stroke="#6C6C6C" stroke-width="0.9945"></path>
-                            <path d="M6.37095,6.973425 C6.8292,7.098675 7.09995,6.827925 6.97545,6.369675 L5.4867,0.914175 C5.36145,0.455925 4.98195,0.362925 4.6467,0.698175 L0.69945,4.645425 C0.3597,4.984425 0.45795,5.360925 0.9162,5.486175 L6.37095,6.973425 Z" id="Fill-5" fill="#6C6C6C"></path>
-                            <path d="M8.9352,5.175375 L5.33745,8.773875 C4.66395,9.447375 4.66395,10.539375 5.33745,11.213625 L12.77745,18.653625 C13.45095,19.327125 14.5437,19.327125 15.2172,18.653625 L18.8157,15.055875 C19.4892,14.381625 19.4892,13.289625 18.8157,12.616125 L11.37495,5.175375 C10.7007,4.501875 9.6087,4.501875 8.9352,5.175375" id="Fill-1" fill="#6C6C6C"></path>
-                            <mask id="mask-2" fill="white">
-                                <use xlink:href="#path-1"></use>
-                            </mask>
-                            <use id="Stroke-3" stroke="#6C6C6C" stroke-width="0.9945" xlink:href="#path-1"></use>
-                            <g id="Group-16" mask="url(#mask-2)">
-                                <g transform="translate(3.750000, 8.813325)">
-                                    <path d="M14.092875,0.468 L0.001125,0.6915" id="Fill-13" stroke="none" fill="#6C6C6C" fill-rule="evenodd"></path>
-                                    <path d="M14.092875,0.468 L0.001125,0.6915" id="Stroke-15" stroke="#ECEBE5" stroke-width="0.9945" fill="none"></path>
-                                </g>
-                            </g>
-                            <g id="Group-20" mask="url(#mask-2)">
-                                <g transform="translate(6.750000, 14.063325)">
-                                    <path d="M13.756725,0.625425 L0.255225,0.816675" id="Fill-17" stroke="none" fill="#6C6C6C" fill-rule="evenodd"></path>
-                                    <path d="M13.756725,0.625425 L0.255225,0.816675" id="Stroke-19" stroke="#ECEBE5" stroke-width="0.9945" fill="none"></path>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6C6C6C;}
+</style>
+<title>bonbon</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<path class="st0" d="M4.2,9c-1.5,1.2-1.7,3.5-0.5,5l6.8,8.3c1.2,1.5,3.5,1.7,5,0.5s1.7-3.5,0.5-5L9.2,9.5C8,7.9,5.7,7.7,4.2,9z
+		 M5,9.9c1-0.8,2.5-0.7,3.3,0.3l3,3.7l-3.7,3l-3-3.7C3.8,12.2,4,10.7,5,9.9z M14.8,21.9c-1,0.8-2.5,0.7-3.3-0.3l-3-3.7l3.7-3l3,3.7
+		C16,19.5,15.9,21,14.8,21.9z"/>
+	<path class="st0" d="M9.1,1.9c-1.5,1.2-1.7,3.5-0.5,5l6.8,8.3c1.2,1.5,3.5,1.7,5,0.5s1.7-3.5,0.5-5l-6.8-8.3
+		C12.9,0.8,10.6,0.6,9.1,1.9z M9.9,2.8c1-0.8,2.5-0.7,3.3,0.3l3,3.7l-3.7,3l-3-3.7C8.7,5.1,8.9,3.6,9.9,2.8z M19.8,14.7
+		c-1,0.8-2.5,0.7-3.3-0.3l-3-3.7l3.7-3l3,3.7C20.9,12.4,20.8,13.9,19.8,14.7z"/>
+</g>
 </svg>
