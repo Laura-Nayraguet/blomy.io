@@ -708,11 +708,11 @@ p:not(:last-child) {
 }
 
 .text-link {
-  color: #00c756;
+  color: #b2a4d4;
   font-weight: 600;
 }
 .text-link:hover, .text-link:focus, .text-link:visited {
-  color: #00a849;
+  color: #b2a4d4;
 }
 
 .font-poppins {
