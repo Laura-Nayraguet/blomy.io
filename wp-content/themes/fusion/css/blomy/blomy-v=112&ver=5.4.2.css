@@ -167,7 +167,12 @@
   font-weight: 700;
   font-style: normal;
 }
-
+@font-face {
+  font-family: "Orkney light";
+  src: url("../../fonts/Orkney/orkney-light.otf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
 .text-primary {
   color: #b2a4d4 !important;
 }
@@ -240,7 +245,7 @@ p:not(:last-child) {
   padding: 10px 16px 10px 10px;
   color: #827e79;
   background: white;
-  font-family: Poppins;
+  font-family: Orkney;
   font-weight: 700;
   font-size: 16px;
   border-radius: 25px;
@@ -267,7 +272,7 @@ p:not(:last-child) {
 .badge.badge-pill.badge-secondary {
   display: inline-flex;
   align-items: center;
-  font-family: Poppins;
+  font-family: Orkney;
   font-size: 12px;
   font-weight: 400;
   color: #827e79;
@@ -397,7 +402,7 @@ p:not(:last-child) {
 .title-1 {
   font-size: 28px;
   line-height: 35px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
   color: #302C2E;
 }
@@ -561,14 +566,14 @@ p:not(:last-child) {
 .title-6 {
   font-size: 16px;
   line-height: 22px;
-  font-family: "Open Sans";
+  font-family: "Orkney light";
   font-weight: 600;
 }
 
 .title-7 {
   font-size: 18px;
   line-height: 35px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 500;
 }
 @media screen and (min-width: 992px) {
@@ -585,7 +590,7 @@ p:not(:last-child) {
 .text-description {
   font-size: 18px;
   line-height: 27px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 400;
 }
 @media screen and (min-width: 1200px) {
@@ -686,7 +691,7 @@ p:not(:last-child) {
 .description {
   font-size: 16px;
   line-height: 22px;
-  font-family: "Open Sans";
+  font-family: "Orkney light";
   font-weight: 400;
 }
 @media screen and (min-width: 992px) {
@@ -713,6 +718,11 @@ p:not(:last-child) {
 .font-poppins {
   font-family: "Poppins";
 }
+
+.font-orkney {
+  font-family: "Orkney";
+}
+
 
 .font-heart {
   font-family: "Always In My Heart";
@@ -1271,7 +1281,7 @@ table.table-small.tablepress tr td, table.table-small.tablepress tr td.column-1,
 
 /* Presskit */
 .page-template-template-presskit h2, .page-template-template-presskit-es h2, .page-template-template-presskit-en h2 {
-  font-family: "Open Sans";
+  font-family: "Orkney light";
   font-size: 19px;
   font-weight: 800;
   margin-bottom: 0;
@@ -1646,7 +1656,7 @@ body.page-template-template-full_page img {
   margin: 0 auto;
 }
 body.page-template-template-full_page h1 {
-  font-family: "Pacifico", "Open Sans";
+  font-family: "Pacifico", "Orkney light";
   font-size: 42px;
   line-height: 58px;
 }
@@ -2877,7 +2887,7 @@ body.premium .section-2 .text {
 }
 body.premium .section-2 .name {
   font-size: 20px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
 }
 body.premium .section-3 {
@@ -2890,7 +2900,7 @@ body.premium .section-3 {
 }
 body.premium .section-3 .price {
   font-size: 30px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
 }
 @media screen and (min-width: 768px) {
@@ -3003,7 +3013,7 @@ body.premium.payment .section-1 .arrow {
 }
 body.premium.payment .section-1 .name {
   font-size: 20px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
   margin-bottom: 6px;
 }
@@ -3032,7 +3042,7 @@ body.premium.payment .guaranties h3 {
   display: flex;
   align-items: center;
   font-size: 18px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 500;
   color: #A69281;
   margin-bottom: 6px;
@@ -3908,7 +3918,7 @@ body.impact-measure .twitter {
 }
 .ebook .section-2 .price {
   font-size: 30px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
 }
 @media screen and (min-width: 768px) {
@@ -3967,7 +3977,7 @@ body.impact-measure .twitter {
   display: flex;
   align-items: center;
   font-size: 18px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 500;
   color: #A69281;
   margin-bottom: 6px;
@@ -4027,13 +4037,13 @@ body.impact-measure .twitter {
 }
 .ebook .product .name {
   font-size: 20px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
   margin-bottom: 2px;
 }
 .ebook .product .price {
   font-size: 20px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 600;
 }
 .ebook .product .price a {
@@ -4128,7 +4138,7 @@ body.single-blomy_recipe article.blomy_recipe .entry-content .wp-block-media-tex
   margin: 0 16px 0 0;
   font-weight: 600;
   color: #b3b3b3;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-size: 28px;
   flex: 0 0 16px;
 }
@@ -4426,14 +4436,14 @@ form .form-group div.error {
   display: none;
 }
 form label {
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 500;
   font-size: 18px;
   color: #757575;
   margin-bottom: 0.3rem;
 }
 form label.error {
-  font-family: "Open Sans";
+  font-family: "Orkney light";
   font-weight: normal;
   font-size: 16px;
   text-transform: none;
@@ -4533,7 +4543,7 @@ form button.btn:disabled, form button.btn.disabled {
 
 a.arrow-link {
   font-size: 18px;
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-weight: 500;
   color: #b2a4d4;
 }
@@ -4993,7 +5003,7 @@ a.arrow-link.left img {
   align-items: center;
   padding: 5px 0;
   width: 108px;
-  font-family: "Poppins";
+  font-family: "Orkney";
 }
 @media screen and (min-width: 576px) {
   .section-homepage.section-4 .products-row .product {
@@ -5348,7 +5358,7 @@ a.arrow-link.left img {
 .section-homepage.section-5 .reviews-col-left .reviews {
   font-size: 25px;
   font-weight: 500;
-  font-family: Poppins;
+  font-family: Orkney;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -5745,7 +5755,7 @@ a.arrow-link.left img {
 .section-application.section-1 #iphone-carousel-desktop .features .feature .desc {
   font-size: 14px;
   line-height: 19px;
-  font-family: "Open Sans";
+  font-family: "Orkney light";
   font-weight: 400;
 }
 .section-application.section-1 #iphone-carousel-desktop .features .feature img,
@@ -6142,7 +6152,7 @@ a.arrow-link.left img {
   width: 165px;
 }
 .section-team.section-1 .member .name {
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-size: 24px;
 }
 .section-team.section-1 .member .function {
@@ -6499,7 +6509,7 @@ a.arrow-link.left img {
   }
 }
 .section-contact.section-1 h1 {
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-size: 34px;
   letter-spacing: -1px;
   font-weight: 600;
@@ -6524,7 +6534,7 @@ a.arrow-link.left img {
   }
 }
 .section-contact.section-2 h1 {
-  font-family: "Poppins";
+  font-family: "Orkney";
   font-size: 28px;
   letter-spacing: -1px;
   font-weight: 600;
@@ -7127,7 +7137,7 @@ input[type=submit] {
 
 #content .hentry h2.entry-title {
   font-weight: 700;
-  font-family: "Poppins";
+  font-family: "Orkney";
 }
 #content .hentry h2.entry-title a {
   color: #212121;
@@ -7161,7 +7171,7 @@ input[type=submit] {
 }
 
 .single article h1 {
-  font-family: "Poppins";
+  font-family: "Orkney";
 }
 
 /*# sourceMappingURL=blomy.css.map */
