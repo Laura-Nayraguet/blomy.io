@@ -4316,7 +4316,7 @@ body.logged-in #header-v2 {
   transition: all 0.2s ease-out;
 }
 .stores img:hover {
-  background: #00c757;
+  background: #b2a4d4;
 }
 .stores a {
   display: inline-block;
