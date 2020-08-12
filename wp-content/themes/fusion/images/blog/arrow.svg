@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>arrow</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow" fill="#06DB5F" fill-rule="nonzero">
-            <path d="M12.9955857,6.72647725 L13.5306777,7.26156725 C13.8364447,7.56733725 13.8364447,8.02598725 13.5306777,8.33175725 L8.06509475,13.7973372 C7.75932775,14.1031072 7.30067775,14.1031072 6.99491075,13.7973372 L1.52932775,8.33175725 C1.22356075,8.02598725 1.22356075,7.56733725 1.52932775,7.26156725 L2.06441975,6.72647725 C2.37018675,6.42070725 2.82883675,6.42070725 3.13460375,6.72647725 L6.38337675,9.97524725 L6.38337675,-0.26794275 C6.38337675,-0.68837275 6.72736475,-1.03235275 7.14779375,-1.03235275 L7.91221175,-1.03235275 C8.33264075,-1.03235275 8.67662875,-0.68837275 8.67662875,-0.26794275 L8.67662875,9.97524725 L11.9254017,6.72647725 C12.1929477,6.42070725 12.6898187,6.42070725 12.9955857,6.72647725 Z" id="Shape" transform="translate(7.530003, 6.497156) scale(-1, 1) rotate(90.000000) translate(-7.530003, -6.497156) "></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 13" style="enable-background:new 0 0 16 13;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B2A4D4;}
+</style>
+<title>arrow</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="arrow">
+		<path id="Shape" class="st0" d="M7.8,12l0.5,0.5c0.3,0.3,0.8,0.3,1.1,0L14.8,7c0.3-0.3,0.3-0.8,0-1.1L9.4,0.5
+			c-0.3-0.3-0.8-0.3-1.1,0L7.8,1c-0.3,0.3-0.3,0.8,0,1.1L11,5.4H0.8C0.3,5.4,0,5.7,0,6.1v0.8c0,0.4,0.3,0.8,0.8,0.8H11l-3.2,3.2
+			C7.5,11.2,7.5,11.7,7.8,12z"/>
+	</g>
+</g>
 </svg>
