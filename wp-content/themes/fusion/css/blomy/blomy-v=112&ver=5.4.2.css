@@ -1079,6 +1079,10 @@ a#mobile-menu-toggle {
   color: #787878;
 }
 
+.page-title{
+  margin-bottom: 20px;
+
+}
 .page-template-template-blog .page-title, .single-post h2.tagline {
   text-shadow: 2px 2px rgba(50, 74, 51, 0.6);
   font-family: "Pacifico", cursive;
